@@ -1,4 +1,3 @@
-# calculadoraprojeto
 
 # Calculadora
 
@@ -15,6 +14,6 @@ A calculadora é bem simples e possui 4 operações.
 
 
 
-#Rodando o script
+## Rodando o script
 
 Para executar o arquivo SH é necessário usar o ide bash e então digitar ./calculadora.sh
